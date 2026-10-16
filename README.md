@@ -8,11 +8,13 @@ The figures below are **visual inventories reconstructed from the uploaded `.pbi
 
 ### Page 1 — Sales overview
 
-![SuperStore report page 1 visual inventory](assets/report-page-1.png)
+<img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/8785ee4a-0a50-4b5d-8606-cf2dd04b52d3" />
+
 
 ### Page 2 — Sales trends
 
-![SuperStore report page 2 visual inventory](assets/report-page-2.png)
+<img width="1362" height="761" alt="image" src="https://github.com/user-attachments/assets/02ed1208-8900-4286-a72e-a0fd4208519a" />
+
 
 ## What's in the report
 
